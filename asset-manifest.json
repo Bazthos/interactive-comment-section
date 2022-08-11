@@ -1,13 +1,18 @@
 {
-  "main.css": "/interactive-comment-section/static/css/main.50aa90b4.chunk.css",
-  "main.js": "/interactive-comment-section/static/js/main.d9e3a24a.chunk.js",
-  "main.js.map": "/interactive-comment-section/static/js/main.d9e3a24a.chunk.js.map",
+  "main.css": "/interactive-comment-section/static/css/main.1314f6df.chunk.css",
+  "main.js": "/interactive-comment-section/static/js/main.14f6eebc.chunk.js",
+  "main.js.map": "/interactive-comment-section/static/js/main.14f6eebc.chunk.js.map",
   "runtime~main.js": "/interactive-comment-section/static/js/runtime~main.bf19747a.js",
   "runtime~main.js.map": "/interactive-comment-section/static/js/runtime~main.bf19747a.js.map",
-  "static/js/2.8e19656d.chunk.js": "/interactive-comment-section/static/js/2.8e19656d.chunk.js",
-  "static/js/2.8e19656d.chunk.js.map": "/interactive-comment-section/static/js/2.8e19656d.chunk.js.map",
+  "static/js/2.66de60ad.chunk.js": "/interactive-comment-section/static/js/2.66de60ad.chunk.js",
+  "static/js/2.66de60ad.chunk.js.map": "/interactive-comment-section/static/js/2.66de60ad.chunk.js.map",
   "index.html": "/interactive-comment-section/index.html",
-  "precache-manifest.c7b5d10c82ff2890006142ef1bc7f741.js": "/interactive-comment-section/precache-manifest.c7b5d10c82ff2890006142ef1bc7f741.js",
+  "precache-manifest.a8dfffcfcaeb26b555ca1472035f090e.js": "/interactive-comment-section/precache-manifest.a8dfffcfcaeb26b555ca1472035f090e.js",
   "service-worker.js": "/interactive-comment-section/service-worker.js",
-  "static/css/main.50aa90b4.chunk.css.map": "/interactive-comment-section/static/css/main.50aa90b4.chunk.css.map"
+  "static/css/main.1314f6df.chunk.css.map": "/interactive-comment-section/static/css/main.1314f6df.chunk.css.map",
+  "static/media/icon-delete.svg": "/interactive-comment-section/static/media/icon-delete.d44a925a.svg",
+  "static/media/icon-edit.svg": "/interactive-comment-section/static/media/icon-edit.88e96924.svg",
+  "static/media/icon-minus.svg": "/interactive-comment-section/static/media/icon-minus.c420fc92.svg",
+  "static/media/icon-plus.svg": "/interactive-comment-section/static/media/icon-plus.2736214f.svg",
+  "static/media/icon-reply.svg": "/interactive-comment-section/static/media/icon-reply.cb6fbfc8.svg"
 }
